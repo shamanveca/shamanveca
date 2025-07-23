@@ -29,7 +29,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I rest.
 
-- :mailbox:How to reach me: <a href="#######"> <img src="https://img.shields.io/badge/shaman98%40list.ru-%23005FF9?style=plastic&logo=maildotru&logoColor=white" alt="Mail"/> </a>
+- :mailbox:How to reach me: <a href="#######"> <img src="https://img.shields.io/badge/mail-%23005FF9?style=plastic&logo=maildotru&logoColor=white" alt="Mail"/> </a>
 
 ---
 <h3 >
