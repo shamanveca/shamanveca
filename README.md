@@ -40,10 +40,12 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NmaDZmaTk5ZXE2aXRxa2liaWs3YWJlZTJqd2xoY29lNmtpcGw0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/w7j1Bivh2hvIbhDYO8/giphy.gif"  title="CSS3" alt="CSS3" width="60"     
 height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="Less" alt="Less" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlyNDU2aDc3cDg2M3RjZXJheGxoeTcydTBzYTE0cTh4NmwzMG1teSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ejfEZhz0nh2kR0SZzn/giphy.gif"  title="JS" alt="JS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" **alt="Gulp" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" **alt="VS Code" width="60" height="60"/>
   <br><br>
 </div>
